@@ -1,8 +1,8 @@
 {
   "description": "0xBTC is a faithful implementation of Bitcoin as a trustless, immutable Ethereum smart contract. It combines the Bitcoin properties of block rewards, proof-of-work issuance, and a 21 million coin cap with the Ethereum properties of speed, DApps, and DEX trading.\n\n\n0xBitcoin is an independent project with a decentralized development community. It is the first fully decentralized, purely mined, ERC20 token. Token issuance only happens in exchange for PoW, like Bitcoin. Token issuance takes place according to Bitcoin's rules enforced by an immutable, trustless smart contract on Ethereum. No person or organization has authority or control over it.\n\n\nFind more in https://0xbitcoin.org\n\n\n",
   "external_url": "https://discord.gg/3BzYJPd",
-  "image": "https://raw.githubusercontent.com/BlockTimeWorld/memes/main/images/u0gn00h1fl231.png",
-  "name": "0xBitcoin L2 Memes #1",
+  "image": "https://raw.githubusercontent.com/BlockTimeWorld/memes/main/images/mei123C.png",
+  "name": "0xBitcoin L2 Memes #4",
   "properties": [
     [
       {
@@ -20,7 +20,7 @@
   "attributes": [
     {
       "trait_type": "token_number",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "token_birthday",
