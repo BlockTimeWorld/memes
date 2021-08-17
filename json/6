@@ -1,0 +1,60 @@
+{
+  "description": "0xBTC is a faithful implementation of Bitcoin as a trustless, immutable Ethereum smart contract. It combines the Bitcoin properties of block rewards, proof-of-work issuance, and a 21 million coin cap with the Ethereum properties of speed, DApps, and DEX trading.\n\n\n0xBitcoin is an independent project with a decentralized development community. It is the first fully decentralized, purely mined, ERC20 token. Token issuance only happens in exchange for PoW, like Bitcoin. Token issuance takes place according to Bitcoin's rules enforced by an immutable, trustless smart contract on Ethereum. No person or organization has authority or control over it.\n\n\nFind more in https://0xbitcoin.org\n\n\n",
+  "external_url": "https://discord.gg/3BzYJPd",
+  "image": "https://raw.githubusercontent.com/BlockTimeWorld/memes/main/images/123123C.png",
+  "name": "0xBitcoin L2 Memes #6",
+  "properties": [
+    [
+      {
+        "key": "decimals",
+        "value": 8,
+        "type": "integer"
+      },
+      {
+        "key": "mining_algorithm",
+        "value": "Keccak256",
+        "type": "string"
+      }
+    ]
+  ],
+  "attributes": [
+    {
+      "trait_type": "token_number",
+      "value": 6
+    },
+    {
+      "trait_type": "token_birthday",
+      "value": "Aug-17-2021"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "decentralized",
+      "value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "mined",
+      "value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "airdropped",
+      "value": 0
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "ICO",
+      "value": 0
+    },
+    {
+      "display_type": "number",
+      "trait_type": "memes_max_supply",
+      "value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "0xbtc_max_supply",
+      "value": 21000000
+    }
+  ]
+}
